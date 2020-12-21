@@ -79,6 +79,8 @@ The chart below shows the HPV vaccine injection rate in the United States in rec
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/HPV_16085442148190/Sheet8?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
+<br>
+
 *Therefore, if China wants to reduce the incidence of cervical cancer through HPV vaccine injection, it should increase investment in cervical cancer vaccines, encourage Chinese companies to develop and produce more low-cost HPV vaccines, and increase HPV vaccine education and publicity.*
 
 <br>
@@ -99,15 +101,25 @@ The picture above shows  the number of doctors per 1000 people worldwide. It can
 
 Earlier in a meeting in 2019, Song Li, deputy director of the Department of Maternal and Child Health of the National Health Commission, said, since the central authority stated that local special funds can be dynamically allocated, "some places put more funds into the prevention and control of infectious diseases, so the allocation of funds for the prevention and control of cervical cancer and breast cancer has been affected.” (Caixin, 2019)
 
-All in all, if China wants to reduce the incidence of cervical cancer through cervical cancer screening, it should strengthen the training of doctors in rural areas on the knowledge and technology of Pap test cytology to reduce the rate of misdiagnosis and improve work efficiency, and gradually transits the Pap test cytology methodto the VIA testing method to reduce the cost and misdiagnosis rate of cervical cancer screening to improve the efficiency of screening. In addition, the provinces and cities should all set up special funds for cervical cancer screening programs.
+<br>
+*All in all, if China wants to reduce the incidence of cervical cancer through cervical cancer screening, it should strengthen the training of doctors in rural areas on the knowledge and technology of Pap test cytology to reduce the rate of misdiagnosis and improve work efficiency, and gradually transits the Pap test cytology methodto the VIA testing method to reduce the cost and misdiagnosis rate of cervical cancer screening to improve the efficiency of screening. In addition, the provinces and cities should all set up special funds for cervical cancer screening programs.*
 
 <br>
 
 ### Data Source
+For the ptoject, most of the data is from Gapmider(https://www.gapminder.org/data/).
 
+Data from Gapminder website can be reused freely, but need to attribute the original data source and Gapminder. User are allowed to copy and redistribute the material in any medium or format, remix, transform, and build upon the material for any purpose, even commercially. 
+
+All data is downloaded by indicators, and the data merge process is included in the jupyter notebook under the main branch.
+
+In addition, the US HPV vaccine injection rate data is from the website below.
 https://progressreport.cancer.gov/prevention/hpv_immunization#field_data_source
 
-https://www.gapminder.org/data/
+### Platforms
+- Github
+- Python
+- Tableau
 
 ### Reference
 Wen, Xiaoduo et al. “Urban-Rural Disparity in Cervical Cancer in China and Feasible Interventions for Tackling the Rural Excess.” Medicine (Baltimore) 98.1 (2019): e13907–e13907. Web.
