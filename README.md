@@ -3,7 +3,7 @@
 ## Every year, a large number of women die of cervical cancer.
 
 #### Tableau Viz
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofFemaleDeath/CervicalCancerDeathNumber?:language=zh-Hans&:display_count=y&publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofFemaleDeath/CervicalCancerDeathNumber?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
 
 
 ## Cervical cancer is a preventable cancer.
