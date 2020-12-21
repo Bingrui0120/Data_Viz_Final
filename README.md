@@ -44,7 +44,7 @@ If we put the average percentage of contraceptive use and the average deaths of 
 
 #### Average Percentage of Contraceptive Use vs Average Deaths of Cervical Cancer
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/usevsdeath/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>
+https://public.tableau.com/views/usevsdeath/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '1000' scrolling='yes' ></iframe>
 
 China has invested a lot of money in recent years to solve extreme poverty. China's per capita GDP increases, and the people's living standards have continued to grow. In addition, the Chinese government initiated a free cervical and breast cancer screening program for women in 2008. However, the number of female deaths from cervical cancer in China has not declined, and even tends to increase year by year.
 
@@ -77,7 +77,7 @@ The chart below shows the HPV vaccine injection rate in the United States in rec
 
 #### HPV Vaccine Rates in the United States
 <iframe seamless frameborder="0" src="
-https://public.tableau.com/views/HPV_16085442148190/Sheet8?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
+https://public.tableau.com/views/HPV_16085442148190/Sheet8?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '1000' scrolling='yes' ></iframe>
 
 <br>
 
