@@ -1,8 +1,6 @@
 # Cervical Cancer in China
 ##### Bingrui Li
-##### Data Visualization Final Project
 
-<br>
 <br>
 
 ## Every year, a large number of women die of cervical cancer.
@@ -28,7 +26,6 @@ China has invested a lot of money in recent years to solve extreme poverty. Chin
 https://public.tableau.com/views/CervicalCancerDeathper100000Women/CervicalCancerDeathper100000Women?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>
 
 <br>
-<br>
 
 ## Cervical cancer is a preventable cancer.
 
@@ -44,13 +41,29 @@ https://public.tableau.com/views/Map_16085365905860/Dashboard1?:language=en&:emb
 
 ### HPV Vaccine
 
+The HPV vaccination still faces many problems in China. The current public acceptance of HPV vaccine is still low. In a questionnaire (Fu, 2018), by 2015, only 25% of respondents had heard of HPV preventive vaccines, and 14% knew that HPV vaccines could prevent cervical cancer and other diseases. Although WHO recommends that HPV vaccine be included in the immunization program, in September 2019, the National Medical Insurance Administration made it clear that non-therapeutic items such as tumor screening and cervical cancer vaccination will not be considered for inclusion in the basic medical insurance fund payment scope (NHC 5448, 2019). The medical security system has not been able to expand the scope of payment to non-treatment or preventive screening items. The HPV vaccines currently on the market in China are purchased by each vaccination site, usually priced according to market rules, and citizens voluntarily vaccinate at their own expense.
 <br>
 
 ### Cervical Cancer Screening
+WHO also recommends that high coverage of 80% of people at risk of cervical cancer is an important factor in the successful screening program. Since 2009, China has begun to implement the "two cancers”(cervical cancer and breast cancer) free inspection project for rural women, and through central government funding, free cervical cancer and breast cancer inspections have been launched nationwide for rural women of the right age. In 2019, the National Health Commission and other 10 ministries and commissions jointly issued the "Healthy China Action-Cancer Prevention and Control Implementation Plan (2019-2022)", proposing that by 2022, the coverage of the "two cancers" screening counties for rural women will reach 80%. However, in 2015, the proportion of women aged 20-64 in China who had previously received cervical cancer screening was only 25.7% (of which 31.4% were screened for 35-64 years old), of which 30.0% in urban areas and 22.6% in rural areas (Xia, 2020).
+
+After the start of the screening program, the scope of its pilot program has continued to expand, but population coverage has grown slowly. There are many reasons for this situation, including rural women taking care of the elderly and children and farmland at home, and no time to go to the county hospital to participate in the screening; meanwhile, many people go out to work, and because of household registration restrictions, there is no condition for them to participate in screening (Fu, 2018).
+
+In most rural areas of China, 95% of cervical cancer screening methods are cytology (NHC, 2019). Although the cytological examination method can effectively reduce the incidence of cervical cancer, and is low in cost and easy to promote, it requires high professional quality for doctors (Fu, 2018). For hospitals that carry out cervical cancer screening, most of them are maternal and child health hospitals in rural counties and districts, there is a lack of qualified doctors. This has led to many incidents of missed and misdiagnosed cervical cancer screening.
+
+#### Number of Doctors Worldwide
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/Map_16085365905860/NumberofDoctors?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
+
+Earlier in a meeting in 2019, Song Li, deputy director of the Department of Maternal and Child Health of the National Health Commission, said, since the central authority stated that local special funds can be dynamically allocated, "some places put more funds into the prevention and control of infectious diseases, so the allocation of funds for the prevention and control of cervical cancer and breast cancer has been affected.” (Caixin, 2019)
+
+#### Percentage of Government Spending on Health
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/Map_16085365905860/GovernmentSpending?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
 <br>
 
-<br>
 <br>
 
 
