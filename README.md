@@ -2,6 +2,8 @@
 ##### Bingrui Li
 ##### Data Visualization Final Project
 
+<br>
+<br>
 
 ## Every year, a large number of women die of cervical cancer.
 
@@ -14,8 +16,8 @@ The chart below shows the number of deaths from cervical cancer in all countries
 #### Number of Female Death Due to Cervical Cancer World Wide
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofFemaleDeath/CervicalCancerDeathNumber?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>
 
-
-
+<br>
+<br>
 
 The chart below shows the number of deaths due to cervical cancer per 100,000 in all countries in the world over the past two decades. It can be seen that although China's value is in the middle position compared with other countries in the world, the number of female died due to cervical cancer in recent years is still larger than that of developed countries. Most of the countries with higher numbers in the figure come from African countries. In Africa, most people are still in extreme poverty. Therefore, the average number of women giving birth to children is much higher than that of other countries in the world, and the proportion of households using contraceptive measures is also lower than other countries. A number of studies have confirmed that the use of contraceptive measures, the number of births, the age of first sexual intercourse, and the number of sexual partners are all related to cervical cancer. Therefore, it is normal that the incidence of cervical cancer in African countries is higher than that in developed countries and China.
 
@@ -25,7 +27,8 @@ China has invested a lot of money in recent years to solve extreme poverty. Chin
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/CervicalCancerDeathper100000Women/CervicalCancerDeathper100000Women?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>
 
-
+<br>
+<br>
 
 ## Cervical cancer is a preventable cancer.
 
@@ -37,30 +40,18 @@ The figure below compares the number of people who died of cervical cancer per 1
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/Map_16085365905860/Dashboard1?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
+<br>
+
 ### HPV Vaccine
+
+<br>
 
 ### Cervical Cancer Screening
 
-## Government Expenditures on Health
+<br>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+<br>
+<br>
 
 
 
